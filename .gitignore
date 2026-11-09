@@ -1,0 +1,14 @@
+
+# Secrets
+# .env <- bot token will live here
+# answersKey.json <- answer key
+.env
+answerKey.json
+
+# Event Data
+*.db
+
+# Machine-Specific Folder
+.venv/
+__pycache__/
+.idea/
